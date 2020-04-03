@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan Carlos Martínez",
+      "registro": "25/06/2020",
+      "citas": 10,
+      "cosultas": 5
+    },
+    {
+      "id": 2,
+      "nombre": "Carmen Contreras Juárez",
+      "registro": "30/03/2020",
+      "citas": 1,
+      "cosultas": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Axel Marquez lópez",
+      "registro": "25/07/2020",
+      "citas": 5,
+      "cosultas": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Alejandro López Jantes",
+      "registro": "26/08/2020",
+      "citas": 1,
+      "cosultas": 0
+    },
+    {
+      "id": 5,
+      "nombre": "Ramiro Nuñez Alvarez",
+      "registro": "02/07/2020",
+      "citas": 3,
+      "cosultas": 1
+    },
+    {
+      "id": 6,
+      "nombre": "Lourdes Martínez Lopez",
+      "registro": "25/12/2020",
+      "citas": 1,
+      "cosultas": 5
+    }
+  ]
